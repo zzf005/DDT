@@ -1,6 +1,3 @@
-# DDT
-A simple implementation for paper 'Unsupervised Object Discovery and Co-Localization by Deep Descriptor Transforming' https://arxiv.org/pdf/1707.06397.pdf
-
 1. 代码运行环境
 Ubuntu16.04 包含的库: Python3.5    keras2.2.0.  numpy cv2
 
@@ -14,5 +11,5 @@ DDT算法相当于利用PCA求得最能体现所需检测物体的特征的特�
 ![](https://github.com/Ezereal/DDT/blob/master/data/car_result/0.jpg)
 ![](https://github.com/Ezereal/DDT/blob/master/data/car_result/2.jpg)
 ![](https://github.com/Ezereal/DDT/blob/master/data/car_result/3.jpg)
-![](https://github.com/Ezereal/DDT/blob/master/data/tiger_result/2_featurevec/10.jpg)
+![](https://github.com/Ezereal/DDT/blob/master/data/tiger_result/2_featurevec/8.jpg)
 ![](https://github.com/Ezereal/DDT/blob/master/data/tiger_result/2_featurevec/15.jpg)
